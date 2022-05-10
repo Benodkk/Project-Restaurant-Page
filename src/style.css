@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#buttons {
+    display: flex;
+    gap:50px;
+}
+.button {
+    background-color: red;
+}
+#content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    width: 700px;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+h2 {
+    margin:0px;
+}
+
+/* HOME PAGE */
+
+/* MENU PAGE */
+.menuPositions{
+    gap:10px
+}
+.position {
+    display: flex;
+    width:400px;
+    justify-content: space-between;
+}
+
+/* CONTACT PAGE */
