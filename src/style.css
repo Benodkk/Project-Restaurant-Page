@@ -4,7 +4,7 @@ body {
     align-items: center;
     background-color: black;
     margin: 0px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:'Franklin Gothic Medium', Arial, sans-serif
 }
 #buttons {
     display: flex;
