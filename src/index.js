@@ -4,7 +4,7 @@ import homePage from './homePage'
 import menuPage from './menuPage'
 import contactPage from './contactPage'
 
-menuPage()
+homePage()
 
 const content = document.querySelector('#content')
 const buttons= document.querySelector('#buttons')
